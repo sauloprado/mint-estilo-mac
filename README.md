@@ -24,6 +24,7 @@
 - [Personalização](#personalização)
 - [Como voltar ao visual anterior](#como-voltar-ao-visual-anterior)
 - [Estrutura do repositório](#estrutura-do-repositório)
+- [Projetos irmãos](#projetos-irmãos)
 - [Créditos](#créditos)
 - [Autor](#autor)
 
@@ -134,6 +135,14 @@ mint-estilo-mac/
 ├── LICENSE
 └── README.md
 ```
+
+## Projetos irmãos
+
+| Projeto | Distribuição | Desktop |
+| --- | --- | --- |
+| [mint-estilo-mac](https://github.com/sauloprado/mint-estilo-mac) | Linux Mint | Cinnamon |
+| [ubuntu-estilo-mac](https://github.com/sauloprado/ubuntu-estilo-mac) | Ubuntu | GNOME |
+| [fedora-estilo-mac](https://github.com/sauloprado/fedora-estilo-mac) | Fedora | GNOME |
 
 ## Créditos
 
